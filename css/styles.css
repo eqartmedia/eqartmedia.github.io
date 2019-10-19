@@ -11,7 +11,12 @@ body{
   
 }
 
+@media only screen and (min-width: 320px){
 
+.under-maintenace{
+  width: 100%;
+  height: auto;
+}
 .logo{
   width: 100%;
   height: 40px;
@@ -67,3 +72,5 @@ body{
 .center-info p span{
   color: #FF6398;
 }
+  
+  }
