@@ -61,37 +61,10 @@ body{
 
 .center-info p{
   width: 86%;
-  font-size: 15px;
+  font-size: 0.8em;
   text-align: center;
 }
-.center-form{
-  width: 100%;
-  margin-top: 40px;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 80px;
-  justify-items: center;
-  align-items: center;
+
+.center-info p span{
+  color: #FF6398;
 }
-
-.center-form form input{
-  border: 0;
-  border-bottom: 1px solid black;
-  width: 280px;
-}
-
-.center-form form button{
-  width: 100px;
-  height: 30px;
-  margin-left: 20px;
-  background-color: #19C5C5;
-  color: #fff;
-  font-weight: 700;
-  border: 0;
-  border-radius: 9px;
-}
-
-
-
-
-
